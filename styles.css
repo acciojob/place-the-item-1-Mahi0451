@@ -1,2 +1,43 @@
 
 /* Your CSS Code here. */
+.container{
+	
+	width:550px;
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	
+	
+}
+.holder1{
+	background:green;
+	height:80px;
+	width:80px;
+	font-size:35px;
+	margin:2px;
+}
+
+.holder2{
+	background:red;
+	height:80px;
+	width:80px;
+	font-size:35px;
+	margin:2px;
+}
+
+.holder3{
+	background:blue;
+	height:80px;
+	width:80px;
+	font-size:35px;
+	margin:2px;
+}
+
+.holder4, .holder5, .holder6,.holder7{
+	background:green;
+	height:80px;
+	width:80px;
+	font-size:35px;
+	margin:2px;
+}
